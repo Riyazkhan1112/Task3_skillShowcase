@@ -1,0 +1,11 @@
+module.exports = {
+    API_FIRST_LIMIT: 10000,
+
+    API_FIRST_RATE: 0.01,
+
+    API_EXTRA_RATE: 0.008,
+
+    STORAGE_RATE: 0.25,
+
+    COMPUTE_RATE: 0.05
+};

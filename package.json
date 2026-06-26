@@ -1,0 +1,22 @@
+{
+  "name": "task3_skillshowcase",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "start:file": "node index.js usage-data.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Riyazkhan1112/Task3_skillShowcase.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Riyazkhan1112/Task3_skillShowcase/issues"
+  },
+  "homepage": "https://github.com/Riyazkhan1112/Task3_skillShowcase#readme"
+}
